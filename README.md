@@ -7,12 +7,18 @@ A comprehensive system for analyzing and managing chemical equipment data with b
 ### Web Interface
 The web application provides a modern, responsive interface for equipment data management with real-time analytics and interactive charts.
 
-![Web Interface](images/web_interface.png)
+<img width="1918" height="734" alt="image" src="https://github.com/user-attachments/assets/50405ae1-59dc-43ec-b8db-51c143dacd16" />
+<img width="1123" height="712" alt="image" src="https://github.com/user-attachments/assets/bc5a88ed-6463-496d-bff0-1fca03b0ed02" />
+<img width="1913" height="926" alt="image" src="https://github.com/user-attachments/assets/5db00447-e49c-411e-90c0-8de95af68f48" />
+
+
 
 ### Desktop Application
 The desktop application offers a native Python GUI for users who prefer a standalone application with offline capabilities.
 
-![Desktop Application](images/desktop_app.png)
+<img width="1382" height="926" alt="image" src="https://github.com/user-attachments/assets/cdbd8697-d37f-456e-9bd7-648769750ff8" />
+<img width="895" height="549" alt="image" src="https://github.com/user-attachments/assets/5c237339-e121-469c-8be1-3ee083b06627" />
+
 
 ## Features
 
